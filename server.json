@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/zillow",
   "title": "Zillow",
   "description": "Zillow Research MCP — housing market data from Zillow's public CSV dumps.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/zillow",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-zillow",
