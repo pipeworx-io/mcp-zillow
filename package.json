@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-zillow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Zillow Research MCP — housing market data from Zillow's public CSV dumps.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "zillow",
     "gatewaySlug": "zillow",
-    "sourceHash": "v1-0f8075aa7c1773d571c9ead8d88362715f417d2c89fc911bcb7cd58f776c7c63",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-d4e1c9c5aa728ac1fff7660284d03994409e6e3ccd9913eb91418e922028fb3d",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
